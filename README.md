@@ -1,6 +1,9 @@
 # Data-Analytics--E-commerce-Dashboard-POWER-BI
-This project presents a visual and analytical summary of an ecommerce dataset using a custom-built dashboard. Built to analyze Shopify sales performance, the dashboard provides a comprehensive view of profits, sales trends, customer behavior, and product performance.
 # Shopify Ecommerce Dashboard Insights
+## Project Overview
+This project presents a visual and analytical summary of an ecommerce dataset using a custom-built dashboard. Built to analyze Shopify sales performance, the dashboard provides a comprehensive view of profits, sales trends, customer behavior, and product performance.
+## Data Used
+- <a href="https://github.com/rahul734790/Data-Analytics--E-commerce-Dashboard-POWER-BI/commit/9c1c1926d62a2803a6a164552c6d09be111e749b">Orders Data</a>
 ## Overall Business Performance
 * Total Sales (Amount): INR 438K
 * Total Quantity Sold: 5,615 units
