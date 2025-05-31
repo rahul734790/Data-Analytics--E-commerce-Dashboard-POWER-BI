@@ -6,6 +6,13 @@ This project presents a visual and analytical summary of an ecommerce dataset us
 - <a href="https://github.com/rahul734790/Data-Analytics--E-commerce-Dashboard-POWER-BI/commit/9c1c1926d62a2803a6a164552c6d09be111e749b">Orders Data</a>
 - <a href="https://github.com/rahul734790/Data-Analytics--E-commerce-Dashboard-POWER-BI/blob/main/Products.csv">Products
    Data</a>
+## Process
+* Verify data for any missing values and anomalies, and sort out the same.
+* Made sure data is consistent and clean with respect to data type, data format and values used.
+* Created pivot tables according to the questions asked.
+* Merge all pivot tables into one dashboard and apply slicer to make dynamic.
+## Dashboard
+![Screenshot 2025-05-30 163610](https://github.com/user-attachments/assets/221a7154-27cd-4a03-9f54-639061c93020)
 ## Overall Business Performance
 * Total Sales (Amount): INR 438K
 * Total Quantity Sold: 5,615 units
