@@ -13,6 +13,7 @@ This project presents a visual and analytical summary of an ecommerce dataset us
 * Merge all pivot tables into one dashboard and apply slicer to make dynamic.
 ## Dashboard
 ![Screenshot 2025-05-30 163610](https://github.com/user-attachments/assets/221a7154-27cd-4a03-9f54-639061c93020)
+# Project Insight
 ## Overall Business Performance
 * Total Sales (Amount): INR 438K
 * Total Quantity Sold: 5,615 units
