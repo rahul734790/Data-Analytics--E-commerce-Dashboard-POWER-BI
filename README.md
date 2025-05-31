@@ -11,7 +11,7 @@ This project presents a visual and analytical summary of an ecommerce dataset us
 * Losses observed: May and June show negative profits.
 * Trend: Profits are inconsistent, with dips around mid-year (Q2 and Q3).
 ##  Top 3 Sales States
- 1. Maharashtra - INR 102K
- 2. Madhya Pradesh - INR 87K
- 3. Uttar Pradesh - INR 38K
- ~Insight: Maharashtra is the highest contributing state to revenue.
+1. Maharashtra - INR 102K
+2. Madhya Pradesh - INR 87K
+3. Uttar Pradesh - INR 38K
+Insight: Maharashtra is the highest contributing state to revenue.
